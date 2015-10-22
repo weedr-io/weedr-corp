@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .DS_Store
 *.pyc
 *.db
@@ -60,4 +59,3 @@ docs/_build/
 
 # PyBuilder
 target/
->>>>>>> e433e215150ccdb7a3f8a0f1a73072cd7f42b605
